@@ -65,6 +65,7 @@ GEM
     mime-types (1.25.1)
     minitest (5.4.2)
     multi_json (1.10.1)
+    ng-rails-csrf (0.1.0)
     phantomjs (1.9.7.1)
     polyglot (0.3.5)
     protractor-rails (0.0.7)
@@ -231,6 +232,7 @@ DEPENDENCIES
   jasmine-rails
   jbuilder (~> 2.0)
   jquery-rails
+  ng-rails-csrf
   protractor-rails
   rails (= 4.1.0)
   sass-rails (~> 4.0.3)
